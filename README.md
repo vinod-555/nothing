@@ -1,7 +1,7 @@
 # CODING555
-<!DOUCTYPE>
+<!DOCTYPE HTML>
 <HTML>
  <BODY>
    <h1>something is better than nothing</p>
-     </BODY>
-     </HTML>
+ </BODY>
+ </HTML>
